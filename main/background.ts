@@ -33,7 +33,7 @@ if (isProd) {
 
   ipcMain.on("print-carton", function print(event) {
     mainWindow.webContents.print({
-      silent: false,
+      silent: true,
       printBackground: true,
       scaleFactor: 100,
     });

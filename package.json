@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "my-nextron-app",
+  "name": "hunt-wilson-label-printer",
   "description": "My application description",
   "version": "1.0.0",
-  "author": "Yoshihide Shiono <shiono.yoshihide@gmail.com>",
+  "author": "Moaaz Bhnas <moaaz.bhnas@onecommerce.com>",
   "main": "app/background.js",
   "scripts": {
     "dev": "nextron",
